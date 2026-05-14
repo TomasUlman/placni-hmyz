@@ -2,6 +2,12 @@
 
 Jednoduchá webová hra pro malé děti. Dítě si vybere hmyz, nastaví rychlost a plácá cíl dřív, než zmizí.
 
+## Live demo
+
+Aplikace je dostupná tady:
+
+[https://placnihmyz.vercel.app/](https://placnihmyz.vercel.app/)
+
 ## Funkce
 
 - výběr hmyzu: moucha, pavouk, komár
